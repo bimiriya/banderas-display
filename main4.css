@@ -1,0 +1,16 @@
+.yellow,.grey {
+	display: inline-block;
+}
+
+.h4a {
+	background-color: yellow;
+}
+
+.h4b {
+	background-color: grey;
+	color: white;
+}
+
+.h4a, .h4b {
+		padding: 0.4em 0.4em 0.4em 0.4em;
+}

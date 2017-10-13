@@ -1,0 +1,21 @@
+.yellow {
+	background-color: yellow;
+}
+
+.grey {
+	background-color: grey;
+	color: white;
+}
+
+.yellow,.grey {
+	padding: 0em 0em 3em 0.5em;
+	display: inline-block;
+	width: 200px;
+	height: 100px;
+	margin: 20px;
+}
+
+
+h4 {
+	padding-top: 0.4em;
+}
